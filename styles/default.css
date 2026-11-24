@@ -20,25 +20,13 @@ body {
 h1, h2, h3 {
     font-family: Georgia, serif;
     color: #2b2927;
-}
-
-h1 {
     font-size: 2rem;
     margin-bottom: 10px;
-}
-
-h2 {
-    font-size: 1.5rem;
-    margin-bottom: 20px;
-    border-bottom: 2px solid #dcd6cb;
+     border-bottom: 2px solid #dcd6cb;
     padding-bottom: 8px;
+     margin-top: 25px;
 }
 
-h3 {
-    font-size: 1.2rem;
-    margin-top: 25px;
-    margin-bottom: 10px;
-}
 
 /* Header */
 header {
